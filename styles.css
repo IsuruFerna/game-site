@@ -1,0 +1,136 @@
+html
+{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body
+{
+  background: #343a40;
+}
+
+.card
+{
+  background: #212529;
+}
+
+.card h5
+{
+  color: #e9ecef;
+}
+
+.card p
+{
+  color: #ced4da;
+}
+
+.btn
+{
+  border-color: #9113a4;
+  background: #9113a4;
+}
+
+.container-fluid
+{
+  padding: 0;
+  height: 5vh;
+}
+
+.bg-height
+{
+  height: 90%;
+}
+
+.cover_img
+{
+  height: 53vh;
+  object-fit: cover;
+}
+
+.header
+{
+  text-align: center;
+}
+
+.bg1
+{
+  color: #e9ecef;
+  background: #9113a4;
+  padding: 0.6rem;
+}
+
+.w-100
+{
+  height: 90vh!important
+}
+
+.carousel-item img
+{
+  object-fit: cover;
+}
+
+.trailer-title
+{
+  color: #e9ecef;
+}
+
+.trailer-col
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.trailer-col hr
+{
+  color: #6c757d;
+  margin-top: 0;
+}
+
+.trailer-col ul
+{
+  list-style: none;
+  padding-left: 0;
+}
+
+.trailer-col li
+{
+  color: #ced4da;
+}
+
+.trailer-btn
+{
+  width: 7rem;
+}
+
+.trailer-separator
+{
+  color: #ced4da;
+}
+
+.triler-margin
+{
+  margin-bottom: 5%!important;
+}
+
+footer
+{
+  background: #212529;
+  height: 5vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-margin
+{
+  margin-top: 1.3%;
+}
+
+.footer-text
+{
+  color: #6c757d;
+  font-size: 0.7rem;
+  margin-top: 0.55rem!important;
+  margin-left: 1%;
+}
